@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "game-server", "game-server\game-server.njsproj", "{2A53A55E-75C9-4F11-85E7-4E6BD67602E0}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "web-server", "web-server\web-server.njsproj", "{611CD6A9-396C-49DE-B8DC-AF8A05591A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A53A55E-75C9-4F11-85E7-4E6BD67602E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A53A55E-75C9-4F11-85E7-4E6BD67602E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A53A55E-75C9-4F11-85E7-4E6BD67602E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A53A55E-75C9-4F11-85E7-4E6BD67602E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611CD6A9-396C-49DE-B8DC-AF8A05591A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611CD6A9-396C-49DE-B8DC-AF8A05591A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611CD6A9-396C-49DE-B8DC-AF8A05591A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611CD6A9-396C-49DE-B8DC-AF8A05591A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
